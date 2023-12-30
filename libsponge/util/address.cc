@@ -8,6 +8,8 @@
 #include <netdb.h>
 #include <stdexcept>
 #include <system_error>
+#include <array>
+#include <netdb.h>
 
 using namespace std;
 
